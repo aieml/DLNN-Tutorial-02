@@ -1,5 +1,5 @@
 # DLNN-Tutorial-02
-In this tutorial you will learn about cascade classifiers a technology introduced in early 2000's for object detection. This will be hepfull for the Object Detection APIs section which we will conver on a coming week of the course. At the end of the tutorial you will have a assignment based on Cascade Classifiers. 
+In this tutorial you will learn about cascade classifiers a technology introduced in early 2000's for object detection. This will be hepfull for the Object Detection APIs section which we will cover on a coming week of the course. At the end of the tutorial you will have a assignment based on Cascade Classifiers. 
 
 ## Introduction
 Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
